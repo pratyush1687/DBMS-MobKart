@@ -1,6 +1,6 @@
 # DBMS-MobKart
 
-##contributors:
+## contributors:
  > priyanka sahani
  > aishanya singh
  > pratyush goel
