@@ -7,7 +7,7 @@
  * Aishanya Singh
  * Pratyush Goel
 
->in next five days create normalized relational database
+>blah blaah balh
 >
 >then start coding in sql
 >
