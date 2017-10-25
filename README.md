@@ -1,9 +1,16 @@
 # DBMS-MobKart
 ## Timeline
->in next five days create normalized relational database
+
+
+## Contributors: 
+ * Priyanka Sahani
+ * Aishanya Singh
+ * Pratyush Goel
+
+>blah blaah balh
 >
->then start coding in sql
->
+>then start codsdbdbasvdqw
+>lcdscsvaszcmsdbcakc;caszxcsdc
 >the combining sql with java through jdbc
 >
 >tyvm
